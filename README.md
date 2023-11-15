@@ -1,0 +1,3 @@
+# megasquirtadvance
+Interfacing a DIY engine management controller with an Arduino...
+i literally dont know what im doing 
